@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="CFPU">
+    <Package name="Main">
+        <Key ID="STR_CFPU_Main_URL">
+            <English>https://github.com/tupolov/cfpu</English>
+            <German>https://github.com/tupolov/cfpu</German>
+            <Polish>https://github.com/tupolov/cfpu</Polish>
+            <Portuguese>https://github.com/tupolov/cfpu</Portuguese>
+            <Russian>https://github.com/tupolov/cfpu</Russian>
+            <Czech>https://github.com/tupolov/cfpu</Czech>
+            <Spanish>https://github.com/tupolov/cfpu</Spanish>
+            <Italian>https://github.com/tupolov/cfpu</Italian>
+            <French>https://github.com/tupolov/cfpu</French>
+            <Korean>https://github.com/tupolov/cfpu</Korean>
+            <Japanese>https://github.com/tupolov/cfpu</Japanese>
+            <Chinesesimp>https://github.com/tupolov/cfpu</Chinesesimp>
+            <Chinese>https://github.com/tupolov/cfpu</Chinese>
+        </Key>                                
+    </Package>
+</Project>

@@ -1,0 +1,14 @@
+dir = "@cfpu";
+name = "Community Factions Project Ultimate (Alpha)";
+picture = "\x\cfpu\addons\main\data\logos\picture_cfpu_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/tupolov/cfpu";
+description = "CFPU - Version 0.0.1";
+logo = "logo_cfpu_ca.paa";
+logoOver = "logo_cfpu_over_ca.paa";
+logoSmall = "logo_cfpu_small_ca.paa";
+tooltip = "CFPU";
+tooltipOwned = "CFPU Owned";
+overview = "Community Factions Project (Ultimate), also known as CFPU, delivers a huge number of real world factions in order to improve the diversity, realism and authenticity of Arma 3.";
+author = "CFP Team";
+overviewPicture = "\x\cfpu\addons\main\data\logos\picture_cfpu_ca.paa";
