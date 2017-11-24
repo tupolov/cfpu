@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/tupolov/cfpu/raw/master/extras/assets/logo/cfpu_picture_black.png" width="480">
+    <img src="https://github.com/tupolov/cfpu/raw/master/extras/assets/logo/cfpu_picture_black.png" width="560">
 </p>
 
 <p align="center">
