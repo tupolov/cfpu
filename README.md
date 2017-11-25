@@ -40,12 +40,11 @@ Factions are delivered in a modular way, enabling groups to maintain their own t
 
 ## CFP Ultimate Factions (in addition to enhancing CFP factions)
 
-CFP Utlimate focuses on delivering enhanced CFP factions, BLUFOR special forces and major additions to OPFOR including China, North Korea and Iran.
+CFP Utlimate focuses on delivering enhanced CFP factions, BLUFOR special forces and major additions to OPFOR including North Korea and Iran.
 
 ### OPFOR
 - Islamic Republic of Iran Army
 - Iranian Revoluntionary Guard Corps 
-- Chinese People's Liberaton Army - split into various theater specific factions
 - Korean People's Army (North Korea)
 
 ### INDFOR
