@@ -48,16 +48,20 @@ CFP Utlimate focuses on delivering enhanced CFP factions, BLUFOR special forces 
 - Korean People's Army (North Korea)
 
 ### INDFOR
-- Pakistani Special Service
+- Pakistani Army
+    - Special Service
 
 ### BLUFOR
-- Afghanistan Commandos and Special Forces
+- Afghan Army
+    - Afghanistan Commandos and Special Forces
 - Australian Army including 2nd Commandos
-- British Special Air Service
-- British Special Reconnaisance Regiment
+- British Army
+    - British Special Air Service
+    - British Special Reconnaisance Regiment
 - Canadian Army including Joint Task Force 2
 - French Foreign Legion
 - Bundeswehr
+    - German Special Forces
 - Israeli Armed Forces
 - Israeli Special Forces
 - Jordanian Armed Forces
@@ -65,17 +69,21 @@ CFP Utlimate focuses on delivering enhanced CFP factions, BLUFOR special forces 
 - Philippine Army
 - Polish Army including GROM
 - Royal Air Force including RAF Regiment
-- Royal Navy including British Special Boat Service
+- Royal Navy
+     - British Special Boat Service
 - Royal Thai Army
-- Somali DANAB special forces
+- Somali Army
+    - DANAB special forces
 - Taiwan Armed Forces
 - US Air Force including Pararescue
-- US Army Special Operations Aviation Regiment
-- US Army 75th Ranger Regiment
-- US Army Delta Force (Enhanced)
-- US Army Green Berets
+- US Army 
+    - Special Operations Aviation Regiment
+    - 75th Ranger Regiment
+    - Delta Force (Enhanced)
+    - Green Berets
 - US Navy including Navy SEALS
-- US Marine Corps MARSOC
+- US Marine Corps
+    - MARSOC
 
 ## Assets Needed
 
