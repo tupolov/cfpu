@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">
-    <sup><strong>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>.<br/>Requires the latest version of Community Upgrade Project (Weapons, Units and Vehicles).<br/>Requires the latest version of Community Factions Project.<br/>Requires the latest version of VSM, SMA, NIArms All in ONE and VME mods.<br/>Visit us on <a href="https://twitter.com/CFPMod">Twitter</a> | <a href="https://www.facebook.com/CFPMod">Facebook</a> | <a href="https://www.youtube.com/c/ACE3Mod">YouTube</a> | <a href="https://www.reddit.com/r/arma/search?q=CFP&restrict_sr=on&sort=new&t=all">Reddit</a></strong></sup>
+    <sup><strong>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>.<br/>Requires the latest version of Community Upgrade Project (Weapons, Units and Vehicles).<br/>Requires the latest version of Community Factions Project.<br/>Requires the latest version of TBD mods.</strong></sup>
 </p>
 
-CFP is a community project to provide Arma 3 with 100 new or enhanced real world factions/sub-factions involved in current and historical armed conflicts. CFP comes in two flavours - CFP and CFP Ultimate, only CFP requires **Community Upgrade Project (CUP)**. 
+CFP is a community project to provide Arma 3 with 100 new or enhanced real world factions/sub-factions involved in current and historical armed conflicts. CFP comes in two flavours - CFP and CFP Ultimate. 
 
 CFP offers not only enhanced vanilla CUP factions but also a huge number of new factions using CUP and community donated assets. CFP includes custom assets and textures in order to help expand whats possible with CUP. For more information on <a href="https://github.com/tupolov/cfp/blob/master/README.md">CFP see HERE</a>.
 
-**CFP Ultimate** enhances base CFP factions (if running CFP) and introduces new factions using the most efficient combination of community gear, weapon and vehicle addons. CFP Ultimate requires VSM, SMA and NIArms.  
+**CFP Ultimate** enhances base CFP factions (if running CFP) and introduces new factions using the most efficient combination of community gear, weapon and vehicle addons. CFP Ultimate requires TBD mods.  
 
 Factions are delivered in a modular way, enabling groups to maintain their own tailored version of CFP/CFPU by simply excluding any components they don't need, or those possibly in conflict with other mods. 
 
@@ -84,13 +84,6 @@ CFP Utlimate focuses on delivering enhanced CFP factions, BLUFOR special forces 
 - US Navy including Navy SEALS
 - US Marine Corps
     - MARSOC
-
-## Assets Needed
-
-Where available we have used the correct assets for each faction. Where an asset is unavailable we have used a placeholder. Here are the following assets we are looking to be donated to the project:
-
-Equipment | Weapons | Ground Vehicles | Aircraft | Naval
---- | --- | --- | --- | --- 
 
 ## Getting started
 
